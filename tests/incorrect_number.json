@@ -1,0 +1,9 @@
+{
+    "strMember": "new str",
+    "intMember": 1,
+    "objMember": {
+        "arrMamber": {
+            "ass": 0-.1
+        }
+    }
+}
